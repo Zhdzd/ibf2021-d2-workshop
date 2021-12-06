@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: ibf2021.BankAccountTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 0 s <<< FAILURE! - in ibf2021.BankAccountTest
+testGetBalance(ibf2021.BankAccountTest)  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError
+	at ibf2021.BankAccountTest.testGetBalance(BankAccountTest.java:10)
+
+testDeposit(ibf2021.BankAccountTest)  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError
+	at ibf2021.BankAccountTest.testDeposit(BankAccountTest.java:17)
+
